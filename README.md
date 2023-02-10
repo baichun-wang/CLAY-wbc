@@ -1,11 +1,11 @@
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=wbcl&show_icons=true&theme=radical)
-- 👋 Hi, I’m @CLAY-wbc
+- 👋 Hi, I’m @Baichun.wang
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-CLAY-wbc/CLAY-wbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+baichun-wang/CLAY-wbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
